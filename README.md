@@ -23,11 +23,6 @@ kendi sistem güvenliğinizi test edebilirsiniz
 
 programın gelişmesine öneriler için :
 
-{
-Secret Aws KEy = 34sdfsdfasiş34isdasd
-AWS key = sdfsdfsdfpsdf324
-Google Ap = sdgsdfsdf
-Api = 45345435
-}
+
 
 instagram: @merthimself
